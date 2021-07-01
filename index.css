@@ -4,7 +4,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url('./caslon-antique-normal.ttf') format('tff');
+  src: url('./caslon-antique-normal.ttf') format('truetype');
 }
 
 @font-face {
@@ -12,5 +12,5 @@
   font-style: italic;
   font-display: swap;
   font-weight: 400;
-  src: url('./caslon-antique-italic.ttf') format('tff');
+  src: url('./caslon-antique-italic.ttf') format('truetype');
 }
