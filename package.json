@@ -1,6 +1,6 @@
 {
   "name": "@phillipwildhirt/font-caslon-antique",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "install package for Caslon Antique font",
   "main": "index.css",
   "scripts": {
