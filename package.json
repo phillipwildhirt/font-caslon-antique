@@ -1,6 +1,6 @@
 {
   "name": "@phillipwildhirt/font-caslon-antique",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "install package for Caslon Antique font",
   "main": "index.css",
   "scripts": {
@@ -31,5 +31,8 @@
   "devDependencies": {
     "chai": "^4.3.4",
     "mocha": "^9.0.1"
+  },
+  "dependencies": {
+    "@fontsource/im-fell-english-sc": "^4.4.5"
   }
 }
