@@ -1,0 +1,15 @@
+{
+  "fontId": "caslon-antique",
+  "fontName": "Caslon Antique",
+  "subsets": ["latin"],
+  "weights": ["400"],
+  "styles": ["normal", "italic"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2021-03-19",
+  "version": "v0.1.4",
+  "category": "serif",
+  "source": "whoknows",
+  "license": "MIT",
+  "type": "3rd-party"
+}
