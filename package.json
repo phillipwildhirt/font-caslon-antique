@@ -1,0 +1,28 @@
+{
+  "name": "font-caslon-antique",
+  "version": "0.1.0",
+  "description": "install package for Caslon Antique font",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phillipwildhirt/font-caslon-antique.git"
+  },
+  "keywords": [
+    "caslon",
+    "caslon-antique",
+    "antique",
+    "font"
+  ],
+  "author": "Phillip Wildhirt <phillipwildhirt@gmail.com> (http://www.phillipwildhirt.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phillipwildhirt/font-caslon-antique/issues"
+  },
+  "homepage": "https://github.com/phillipwildhirt/font-caslon-antique#readme"
+  "engines": {
+    "node": ">=4.2.4"
+  }
+}
