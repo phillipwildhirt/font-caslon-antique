@@ -3,5 +3,5 @@
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url('caslon-antique.ttf') format('truetype');
+  src: url('./caslon-antique-normal.ttf') format('truetype');
 }
