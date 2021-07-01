@@ -1,10 +1,13 @@
 {
-  "name": "font-caslon-antique",
-  "version": "0.1.0",
+  "name": "@phillipwildhirt/font-caslon-antique",
+  "version": "0.1.1",
   "description": "install package for Caslon Antique font",
-  "main": "index.js",
+  "main": "index.css",
   "scripts": {
     "test": "mocha --reporter spec"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "repository": {
     "type": "git",
