@@ -21,8 +21,12 @@
   "bugs": {
     "url": "https://github.com/phillipwildhirt/font-caslon-antique/issues"
   },
-  "homepage": "https://github.com/phillipwildhirt/font-caslon-antique#readme"
+  "homepage": "https://github.com/phillipwildhirt/font-caslon-antique#readme",
   "engines": {
     "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.0.1"
   }
 }
