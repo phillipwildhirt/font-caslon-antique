@@ -14,3 +14,17 @@
   font-weight: 400;
   src: url('./caslon-antique-italic.ttf') format('truetype');
 }
+@font-face {
+  font-family: 'Caslon Antique';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src: url('./caslon-antique-bold-italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Caslon Antique';
+  font-style:  normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url('./caslon-antique-bold.ttf') format('truetype');
+}
