@@ -74,3 +74,58 @@
   font-weight: 400;
   src: local('essays1743.medium'), url('essays1743.medium.woff') format('woff');
 }
+
+@font-face {
+  font-family: 'MiddleEarth';
+  font-style: normal;
+  font-weight: 400;
+  src: url('HalfElven-gzj4.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'MiddleEarth';
+  font-style: italic;
+  font-weight: 400;
+  src: url('HalfElvenItalicItalic-4O3l.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'MiddleEarth';
+  font-style: normal;
+  font-weight: 700;
+  src: url('HalfElvenBoldBold-EMqj.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'MiddleEarth';
+  font-style: italic;
+  font-weight: 700;
+  src: url('HalfElvenBoldItalicBoldItalic-azBm.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'MiddleEarth-Left';
+  font-style: italic;
+  font-weight: 400;
+  src: url('HalfElvenLeftalicItalic-0eDP.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'MiddleEarth-Condensed';
+  font-style: normal;
+  font-weight: 400;
+  src: url('HalfElvenCondensedCondensed-ozB4.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'MiddleEarth-Condensed';
+  font-style: italic;
+  font-weight: 400;
+  src: url('HalfElvenCondensedItalicCondensedItalic-3EO3.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'MiddleEarth-Expanded';
+  font-style: normal;
+  font-weight: 400;
+  src: url('HalfElvenExpandedExpanded-Z3KB.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'MiddleEarth-Expanded';
+  font-style: italic;
+  font-weight: 400;
+  src: url('HalfElvenExpandedItalicExpandedItalic-OXZe.ttf') format('truetype');
+}
