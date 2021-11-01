@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70546d01-0d7a-437f-8449-1a3a1f02e617" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/HalfElven-gzj4.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HalfElven3D-WEzG.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HalfElven3DItalicItalic-ezwl.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HalfElvenBoldBold-EMqj.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HalfElvenBoldItalicBoldItalic-azBm.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HalfElvenCondensedCondensed-ozB4.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HalfElvenCondensedItalicCondensedItalic-3EO3.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HalfElvenExpandedExpanded-Z3KB.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HalfElvenExpandedItalicExpandedItalic-OXZe.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HalfElvenItalicItalic-4O3l.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HalfElvenLeftalicItalic-0eDP.ttf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,6 +83,7 @@
     <property name="node.js.selected.package.stylelint" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
@@ -140,7 +129,7 @@
       <workItem from="1625610928776" duration="597000" />
       <workItem from="1625679193117" duration="203000" />
       <workItem from="1625748011451" duration="497000" />
-      <workItem from="1635695939021" duration="385000" />
+      <workItem from="1635695939021" duration="967000" />
     </task>
     <task id="LOCAL-00001" summary="adjusting address, adding files">
       <created>1625177582735</created>
@@ -205,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625262479379</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="new middle-earth font">
+      <created>1635696489902</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1635696489902</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -250,7 +246,8 @@
     <MESSAGE value="new fonts hopefully better baseline" />
     <MESSAGE value="new jsl-ancient font" />
     <MESSAGE value="new essays1743 font" />
-    <option name="LAST_COMMIT_MESSAGE" value="new essays1743 font" />
+    <MESSAGE value="new middle-earth font" />
+    <option name="LAST_COMMIT_MESSAGE" value="new middle-earth font" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/node_modules/@fontsource/im-fell-english-sc/index.css">
