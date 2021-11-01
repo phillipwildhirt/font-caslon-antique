@@ -1,7 +1,7 @@
 {
   "name": "@phillipwildhirt/font-caslon-antique",
-  "version": "0.4.0",
-  "description": "install package for Anitque fonts",
+  "version": "0.4.1",
+  "description": "install package for Antique and other map-like fonts",
   "main": "index.css",
   "scripts": {
     "test": "mocha --reporter spec"
@@ -17,7 +17,14 @@
     "caslon",
     "caslon-antique",
     "antique",
-    "font"
+    "font",
+    "half-elven",
+    "middle-earth",
+    "essays1743",
+    "jsl-ancient",
+    "font-collection",
+    "map",
+    "cartography"
   ],
   "author": "Phillip Wildhirt <phillipwildhirt@gmail.com> (http://www.phillipwildhirt.com/)",
   "license": "MIT",
