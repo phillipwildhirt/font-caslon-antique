@@ -1,6 +1,6 @@
 {
   "name": "@phillipwildhirt/font-caslon-antique",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "install package for Antique and other map-like fonts",
   "main": "index.css",
   "scripts": {
