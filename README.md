@@ -26,7 +26,7 @@ In creating an ancient mapping application I needed a quick install package. The
   * Italic
 
 ## Usage Example
-You could add something like:
+Add the following to your style sheet:
 
 ```css
 .jsl-ancient {
@@ -34,7 +34,25 @@ You could add something like:
 }
 
 .essays1743 {
-    font-family: Essays1743, serif;
+  font-family: Essays1743, serif;
 }
+
+.caslon {
+  font-family: Caslon Antique, serif;
+}
+
+.middle-earth {
+  font-family: Middle Earth, sans-serif;
+}
+.middle-earth-condensed {
+  font-family: Middle Earth Condensed, sans-serif;
+}
+.middle-earth-expanded {
+  font-family: Middle Earth Expanded, sans-serif;
+}
+.middle-earth-left {
+  font-family: Middle Earth Left, sans-serif;
+}
+
 ```
-and all you have to do is add the class `jsl-ancient` to your HTML tag
+ . . . and all you have to do is add the class `jsl-ancient`, `caslon`, etc. to your HTML tag.
