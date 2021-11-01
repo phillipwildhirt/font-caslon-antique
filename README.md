@@ -25,9 +25,15 @@ In creating an ancient mapping application I needed a quick install package. The
   * Normal
   * Italic
 
+
 ## Usage Example
+
 Add the following to your style sheet:
 
+```css
+@import "../node_modules/@phillipwildhirt/font-caslon-antique";
+```
+A possible usage method could be to also add to your stylesheet:
 ```css
 .jsl-ancient {
     font-family: JSL Ancient, serif;
@@ -53,6 +59,5 @@ Add the following to your style sheet:
 .middle-earth-left {
   font-family: Middle Earth Left, sans-serif;
 }
-
 ```
  . . . and all you have to do is add the class `jsl-ancient`, `caslon`, etc. to your HTML tag.
