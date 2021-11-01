@@ -11,10 +11,10 @@ In creating an ancient mapping application I needed a quick install package. The
   * Italic
   * Bold
   * Bold Italic
-* Half Elven
+* Middle Earth (Elvish)
   * Normal
   * Italic
-  * Left
+  * Italic Left
   * Bold
   * Bold Italic
   * Expanded

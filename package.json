@@ -1,6 +1,6 @@
 {
   "name": "@phillipwildhirt/font-caslon-antique",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "install package for Antique and other map-like fonts",
   "main": "index.css",
   "scripts": {
@@ -18,7 +18,7 @@
     "caslon-antique",
     "antique",
     "font",
-    "half-elven",
+    "elvish",
     "middle-earth",
     "essays1743",
     "jsl-ancient",

@@ -76,56 +76,56 @@
 }
 
 @font-face {
-  font-family: 'MiddleEarth';
+  font-family: 'Middle Earth';
   font-style: normal;
   font-weight: 400;
-  src: url('HalfElven-gzj4.ttf') format('truetype');
+  src: url('middle-earth.ttf') format('truetype');
 }
 @font-face {
-  font-family: 'MiddleEarth';
+  font-family: 'Middle Earth';
   font-style: italic;
   font-weight: 400;
-  src: url('HalfElvenItalicItalic-4O3l.ttf') format('truetype');
+  src: url('middle-earth-italic.ttf') format('truetype');
 }
 @font-face {
   font-family: 'MiddleEarth';
   font-style: normal;
   font-weight: 700;
-  src: url('HalfElvenBoldBold-EMqj.ttf') format('truetype');
+  src: url('middle-earth-bold.ttf') format('truetype');
 }
 @font-face {
-  font-family: 'MiddleEarth';
+  font-family: 'Middle Earth';
   font-style: italic;
   font-weight: 700;
-  src: url('HalfElvenBoldItalicBoldItalic-azBm.ttf') format('truetype');
+  src: url('middle-earth-bold-italic.ttf') format('truetype');
 }
 @font-face {
-  font-family: 'MiddleEarth-Left';
+  font-family: 'Middle Earth Left';
   font-style: italic;
   font-weight: 400;
-  src: url('HalfElvenLeftalicItalic-0eDP.ttf') format('truetype');
+  src: url('middle-earth-italic-left.ttf') format('truetype');
 }
 @font-face {
-  font-family: 'MiddleEarth-Condensed';
+  font-family: 'Middle Earth Condensed';
   font-style: normal;
   font-weight: 400;
-  src: url('HalfElvenCondensedCondensed-ozB4.ttf') format('truetype');
+  src: url('middle-earth-condensed.ttf') format('truetype');
 }
 @font-face {
-  font-family: 'MiddleEarth-Condensed';
+  font-family: 'Middle Earth Condensed';
   font-style: italic;
   font-weight: 400;
-  src: url('HalfElvenCondensedItalicCondensedItalic-3EO3.ttf') format('truetype');
+  src: url('middle-earth-condensed-italic.ttf') format('truetype');
 }
 @font-face {
-  font-family: 'MiddleEarth-Expanded';
+  font-family: 'Middle Earth Expanded';
   font-style: normal;
   font-weight: 400;
-  src: url('HalfElvenExpandedExpanded-Z3KB.ttf') format('truetype');
+  src: url('middle-earth-expanded.ttf') format('truetype');
 }
 @font-face {
-  font-family: 'MiddleEarth-Expanded';
+  font-family: 'Middle Earth Expanded';
   font-style: italic;
   font-weight: 400;
-  src: url('HalfElvenExpandedItalicExpandedItalic-OXZe.ttf') format('truetype');
+  src: url('middle-earth-expanded-italic.ttf') format('truetype');
 }
