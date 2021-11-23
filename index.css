@@ -129,3 +129,25 @@
   font-weight: 400;
   src: url('middle-earth-expanded-italic.ttf') format('truetype');
 }
+
+
+@font-face {
+  font-family: 'Aniron';
+  src: url('anironc-d9dk-webfont.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Aniron';
+  src: url('anironcbold-pkwr-webfont.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mairon';
+  src: url('Mairon.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}

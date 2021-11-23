@@ -24,7 +24,11 @@ In creating an ancient mapping application I needed a quick install package. The
 * JSL Ancient
   * Normal
   * Italic
-
+* Mairon
+  * Normal
+* Aniron
+  * Normal
+  * Bold
 
 ## Usage Example
 

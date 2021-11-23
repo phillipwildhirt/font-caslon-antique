@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70546d01-0d7a-437f-8449-1a3a1f02e617" name="Default" comment="" />
+    <list default="true" id="70546d01-0d7a-437f-8449-1a3a1f02e617" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Mairon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anironc-d9dk-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anironc-d9dk-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anironcbold-pkwr-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anironcbold-pkwr-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,6 +145,8 @@
       <workItem from="1625748011451" duration="497000" />
       <workItem from="1635695939021" duration="2450000" />
       <workItem from="1635772703917" duration="706000" />
+      <workItem from="1635773458047" duration="256000" />
+      <workItem from="1637687639413" duration="599000" />
     </task>
     <task id="LOCAL-00001" summary="adjusting address, adding files">
       <created>1625177582735</created>
@@ -249,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635773392748</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="updated README.md">
+      <created>1635773691213</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1635773691213</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
